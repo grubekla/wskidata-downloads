@@ -2,8 +2,8 @@
   "ios": {
     "bundleId": "com.klausgruber.wskidata.cockpit",
     "version": "1.0.8",
-    "build": 31,
+    "build": 32,
     "downloadPage": "https://grubekla.github.io/wskidata-downloads/",
-    "notes": "Große Zeitanzeige, hoher Kontrast für draußen und klare Rückmeldung beim Speichern und Übertragen."
+    "notes": "Offline lokal speichern und automatisch zurück zur Fahrtenvorbereitung. Kleinere Wartungsanzeige und robustere Zahlungsansicht bei fehlenden Fahrtdetails."
   }
 }
