@@ -2,8 +2,8 @@
   "ios": {
     "bundleId": "com.klausgruber.wskidata.cockpit",
     "version": "1.0.8",
-    "build": 32,
+    "build": 33,
     "downloadPage": "https://grubekla.github.io/wskidata-downloads/",
-    "notes": "Offline lokal speichern und automatisch zurück zur Fahrtenvorbereitung. Kleinere Wartungsanzeige und robustere Zahlungsansicht bei fehlenden Fahrtdetails."
+    "notes": "Die letzten 30 unterschiedlichen Läufer zur schnellen Auswahl, ohne Doppeleinträge. Außerdem: offline abschließen und automatisch zurück, angepasste Wartungsanzeige und robustere Zahlungsansicht."
   }
 }
