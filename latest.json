@@ -2,8 +2,8 @@
   "ios": {
     "bundleId": "com.klausgruber.wskidata.cockpit",
     "version": "1.0.8",
-    "build": 33,
-    "downloadPage": "https://grubekla.github.io/wskidata-downloads/",
-    "notes": "Die letzten 30 unterschiedlichen Läufer zur schnellen Auswahl, ohne Doppeleinträge. Außerdem: offline abschließen und automatisch zurück, angepasste Wartungsanzeige und robustere Zahlungsansicht."
+    "build": 35,
+    "downloadPage": "https://grubekla.github.io/wskidata-downloads/?v=35",
+    "notes": "Fehlerkorrekturen bei Zahlungen, Wartung und Offline-Anzeige. In der schnellen Läuferauswahl gleiche Namen einmal anzeigen. Alle einzelnen Fahrten und Zeiten bleiben erhalten."
   }
 }
