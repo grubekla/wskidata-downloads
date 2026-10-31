@@ -2,8 +2,8 @@
   "ios": {
     "bundleId": "com.klausgruber.wskidata.cockpit",
     "version": "1.0.8",
-    "build": 35,
-    "downloadPage": "https://grubekla.github.io/wskidata-downloads/?v=35",
-    "notes": "Fehlerkorrekturen bei Zahlungen, Wartung und Offline-Anzeige. In der schnellen Läuferauswahl gleiche Namen einmal anzeigen. Alle einzelnen Fahrten und Zeiten bleiben erhalten."
+    "build": 36,
+    "downloadPage": "https://grubekla.github.io/wskidata-downloads/?v=36",
+    "notes": "Handy-Hochformat mit angepasster Navigation, Läuferauswahl, Uhr und Zahlung. Im Setup Automatisch, Querformat oder Hochformat wählen. Größere Offline-Anzeige in beiden Ausrichtungen."
   }
 }
