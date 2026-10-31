@@ -2,8 +2,8 @@
   "ios": {
     "bundleId": "com.klausgruber.wskidata.cockpit",
     "version": "1.0.8",
-    "build": 36,
-    "downloadPage": "https://grubekla.github.io/wskidata-downloads/?v=36",
-    "notes": "Handy-Hochformat mit angepasster Navigation, Läuferauswahl, Uhr und Zahlung. Im Setup Automatisch, Querformat oder Hochformat wählen. Größere Offline-Anzeige in beiden Ausrichtungen."
+    "build": 37,
+    "downloadPage": "https://grubekla.github.io/wskidata-downloads/?v=37",
+    "notes": "Die Hochformat-Navigation heißt jetzt Timer; entsprechend übersetzt in Französisch, Italienisch und Spanisch. Alle Verbesserungen aus Build 36 sind enthalten."
   }
 }
